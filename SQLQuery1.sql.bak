@@ -6,5 +6,5 @@
   on stuInfo.bloodId=dbo.blood.bloodId
   left join dbo.star on  dbo.stuInfo.starId=dbo.star.starId
 
-å”æ€è¶…
+ÌÆË¼³¬
   
